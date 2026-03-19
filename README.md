@@ -100,6 +100,7 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 <img width="786" height="273" alt="image" src="https://github.com/user-attachments/assets/fb999ae7-ed4b-4968-a133-79c781eb25c1" />
+ <img width="821" height="640" alt="image" src="https://github.com/user-attachments/assets/3ff3d4d0-b3b4-4a65-8359-36def79ca414" />
 
 
 ### Confusion Matrix
@@ -107,7 +108,8 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 
 ### Classification Report
 
-<img width="952" height="688" alt="image" src="https://github.com/user-attachments/assets/c823fe80-e82e-463d-b2e4-6236e8d53033" />
+<img width="578" height="246" alt="image" src="https://github.com/user-attachments/assets/fb28194b-baf8-4d04-b789-77192d359754" />
+
 
 ### New Sample Prediction
 
