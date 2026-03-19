@@ -86,8 +86,8 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 ```
 ```python
 # Plot training and validation loss
-    print("Name: AMIRTHA VARSHINI M")
-    print("Register Number: 212224230017")
+    print("Name:SELVARANI S")
+    print("Register Number: 212224040301")
     plt.figure(figsize=(8, 6))
     plt.plot(range(1, num_epochs + 1), train_losses, label='Train Loss', marker='o')
     plt.plot(range(1, num_epochs + 1), val_losses, label='Validation Loss', marker='s')
@@ -101,7 +101,6 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 ### Training Loss, Validation Loss Vs Iteration Plot
 <img width="786" height="273" alt="image" src="https://github.com/user-attachments/assets/fb999ae7-ed4b-4968-a133-79c781eb25c1" />
 
-<img width="876" height="659" alt="image" src="https://github.com/user-attachments/assets/f3b7646b-f73f-49aa-9e54-7f9d414a6184" />
 
 ### Confusion Matrix
 <img width="829" height="679" alt="image" src="https://github.com/user-attachments/assets/d6892e8c-b6e4-49b3-b6c0-b98182c3519e" />
@@ -113,7 +112,7 @@ print(f'Epoch [{epoch+1}/{num_epochs}], Train Loss: {train_losses[-1]:.4f}, Vali
 ### New Sample Prediction
 
 <img width="832" height="526" alt="image" src="https://github.com/user-attachments/assets/f79d6fc7-1cb2-4eea-ac29-0ce7c2589d48" />
-<img width="722" height="508" alt="image" src="https://github.com/user-attachments/assets/3bcf4036-0e3f-4d7f-8a64-1b22756062d1" />
+
 
 
 ## RESULT
